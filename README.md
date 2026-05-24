@@ -1,4 +1,4 @@
-# 💫 Hi, I am Akash Sikarwar , below is my about me section:
+# 💫 Hi, I am Akash Sikarwar , below is my about section:
 🚀 Information Technology undergraduate at MMMUT Gorakhpur passionate about Machine Learning, AI, Data Science, and Full Stack Development.<br><br>💻 Skilled in Python, C++, JavaScript, React.js, Django, Scikit-learn, Git, and Streamlit with hands-on experience building AI-powered and analytics-driven applications.<br><br>🔬 Currently exploring:<br>- Machine Learning & Predictive Modeling<br>- MLOps & AI Engineering<br>- Full Stack Web Development<br>- Competitive Programming & DSA<br><br>📌 Projects:<br>- Smart Air Guardian → ML-powered air quality analytics dashboard<br>- Smart AI Quote Generator → Interactive AI-based React web app<br><br>🏆 Achievements:<br>- Runner-Up at Codezilla Coding Competition<br>- Top 15 Finalist in IIIT Bhagalpur Hackathon<br><br>🎯 Designing Head at Hack With India Chapter MMMUT<br><br>🌱 Always learning, building, and experimenting with technology to create impactful solutions.
 
 
